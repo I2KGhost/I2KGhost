@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, machine learning and web development.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me? GitHub, Twitter and soon and throu my webside.
+- 📫 How to reach me? GitHub, X, Instagram, YouTube and soon and throu my webside.
 
 <!---
 I2KGhost/I2KGhost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
