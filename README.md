@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @I2KGhost
-- 👀 I’m interested in Web - Game development and AI.
+- 👀 I’m interested in Game development and AI.
 - 🌱 I’m currently learning Python, Web and Game development.
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me? GitHub, X, Instagram, YouTube and soon and throu my webside.
+- 📫 How to reach me? GitHub, Instagram, YouTube and soon and throu my webside.
 
 
 <!---
